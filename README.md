@@ -1,16 +1,45 @@
-### Hi there 👋
+# About Me
+19 years old  
+Japan Tokyo  
+Aiming to become a full-stack engineer  
+2022/4/1~ college student   
 
-<!--
-**sakura-rip/sakura-rip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contact
+Twitter / Email  
 
-Here are some ideas to get you started:
+# portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://croutech.cc
+
+# Language
+
+Golang   
+python  
+typescript  
+java  
+html  
+css   
+c  
+dart. 
+
+# Web FrameWork
+
+DJango  
+Flask  
+Vue.js(Nuxt.js) 2,3  
+Echo  
+Express.js  
+Vuetify  
+
+# Other
+Flutter  
+GCP 
+AWS
+Docker  
+Thrift, gRPC  
+MySQL  
+MongoDB  
+Cloud FireStore
+
+
+
