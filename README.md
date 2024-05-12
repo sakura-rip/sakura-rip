@@ -1,5 +1,5 @@
 # About Me
-19 years old  
+20 years old 👏
 Japan Tokyo  
 Aiming to become a full-stack engineer  
 2022/4/1~ college student   
@@ -15,18 +15,23 @@ https://croutech.cc
 
 Golang   
 python  
-typescript  
-java  
+typescript 
+Rust 
+c# 
 html  
 css   
 c  
-dart. 
+dart 
+java  
+
 
 # Web FrameWork
 
 DJango  
 Flask  
 Vue.js(Nuxt.js) 2,3  
+React 
+Next.js 
 Echo  
 Express.js  
 Vuetify  
