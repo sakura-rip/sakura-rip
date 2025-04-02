@@ -1,7 +1,7 @@
 # About Me
 Software enginner  
 
-CTO at Paradis.ltd
+CTO at Paradis.ltd  
 Senior Enginner at Miletos.tech
 
 LOVE AI/LLM/ML
@@ -11,11 +11,19 @@ Twitter / Email
 
 # what i do
 
-https://paradis.ltd  
 https://ai-smart-zyusetu.paradis.ltd/  
+AI document generate service  
+
 https://stream.miletos.tech/  
+AI accounting service  
+
 https://sapphire.miletos.tech/  
+AI payment reconciliation service  
+
+
 https://croutech.cc  
+My portfolio  
+
 
 # Language
 
