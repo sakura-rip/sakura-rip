@@ -12,7 +12,7 @@ Twitter / Email
 # what i do
 
 https://ai-smart-zyusetu.paradis.ltd/  
-AI document generate service  
+AI document generatating service  
 
 https://stream.miletos.tech/  
 AI accounting service  
