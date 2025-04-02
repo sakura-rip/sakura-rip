@@ -7,7 +7,12 @@ Aiming to become a full-stack engineer
 # Contact
 Twitter / Email  
 
-# portfolio
+# what i do
+
+https://paradis.ltd
+https://ai-smart-zyusetu.paradis.ltd/
+https://stream.miletos.tech/
+https://sapphire.miletos.tech/
 
 https://croutech.cc
 
