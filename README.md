@@ -15,10 +15,10 @@ https://ai-smart-zyusetu.paradis.ltd/
 AI document generatating service  
 
 https://stream.miletos.tech/  
-AI accounting service  
+AI payment reconciliation service  
 
 https://sapphire.miletos.tech/  
-AI payment reconciliation service  
+AI accounting service  
 
 
 https://croutech.cc  
