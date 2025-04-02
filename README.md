@@ -9,12 +9,11 @@ Twitter / Email
 
 # what i do
 
-https://paradis.ltd
-https://ai-smart-zyusetu.paradis.ltd/
-https://stream.miletos.tech/
-https://sapphire.miletos.tech/
-
-https://croutech.cc
+https://paradis.ltd  
+https://ai-smart-zyusetu.paradis.ltd/  
+https://stream.miletos.tech/  
+https://sapphire.miletos.tech/  
+https://croutech.cc  
 
 # Language
 
