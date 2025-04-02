@@ -1,8 +1,10 @@
 # About Me
-20 years old 👏  
-Japan Tokyo  
-Aiming to become a full-stack engineer  
-2022/4/1~ college student   
+Software enginner  
+
+CTO at Paradis.ltd
+Senior Enginner at Miletos.tech
+
+LOVE AI/LLM/ML
 
 # Contact
 Twitter / Email  
