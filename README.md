@@ -11,7 +11,7 @@ Twitter / Email
 
 # what i do
 
-https://ai-smart-zyusetu.paradis.ltd/  
+https://ai-zyusetu.com/  
 AI document generatating service  
 
 https://stream.miletos.tech/  
